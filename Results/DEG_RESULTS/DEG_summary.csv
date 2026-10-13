@@ -1,0 +1,6 @@
+"Comparison","Genes_with_adjusted_p_values","Significant_FDR_0.05","Upregulated","Downregulated","Significant_with_abs_log2FC_at_least_1"
+"DEG_TS_vs_TC",22242,10154,5126,5028,9301
+"DEG_SS_vs_SC",22242,3764,1165,2599,3472
+"DEG_TC_vs_SC",22242,5294,2367,2927,4816
+"DEG_TS_vs_SS",22242,10916,5746,5170,9913
+"DEG_Genotype_Treatment_Interaction",22242,6207,3398,2809,6140
